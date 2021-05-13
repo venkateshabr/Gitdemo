@@ -1,1 +1,1 @@
-* .Orig
+* .xml.orig
